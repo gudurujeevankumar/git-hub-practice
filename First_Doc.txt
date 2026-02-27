@@ -21,7 +21,11 @@ Meaning of
                     |
     we add the file to Staging area                 { Staging Area }
                     |
+                    |(git commit -m "message")
+                    |
+                    | [Note : If we want to commit it file must be in staging area]
+        we can commit the changes                   { Commit History }
                     |
                     |
-
+                    |
 
