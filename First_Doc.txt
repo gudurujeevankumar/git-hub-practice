@@ -13,6 +13,8 @@ Meaning of
 4. To add the files from { working directory } to { Staging area }
     we have to use 
     --> "git add file/document_name"
+    To add all files we can use {.} "dot"
+    --> "git add ."
 
 5. For commit we have to use 
 --> "git commit -m "Our message"
@@ -29,7 +31,8 @@ To see what are the changes that happened in our working directory we can use
 Red -- Previous one
 Green -- Modified or newly added 
 
-
+To remove the file or delete the file from staging area by using 
+--> git rm --cached file_name
 
                     |
                     | (git init branch_name)
