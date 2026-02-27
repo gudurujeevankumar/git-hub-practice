@@ -1,0 +1,27 @@
+1. First we want to check git status 
+2. Then initialise the github working directory by using "git init -b main" 
+
+Meaning of 
+"git    init            -b      main"
+"git    initialise      branch  branch name"
+
+3. For every time we have to check status by using "git status"
+
+4. To add the files from { working directory } to { Staging area }
+    we have to use --> "git add file/document_name"
+
+5. For commit we have to use "git commit -m "Our message"
+
+                    |
+                    | (git init branch_name)
+                    |
+    we initialise the git by using branch name      { Working Directory }
+                    | 
+                    |(git add file_name)
+                    |
+    we add the file to Staging area                 { Staging Area }
+                    |
+                    |
+                    |
+
+
