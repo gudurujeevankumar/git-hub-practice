@@ -21,6 +21,16 @@ Meaning of
 --> [ git commit -a -m "message" ]
 
 
+To see what are the changes that happened in our working directory we can use 
+--> "git diff" [It can shows when the file in working directory]
+--> "git diff --staged" [It will shows ]
+[After running this command in terminal we get the changes that we made in file as in green colour]
+
+Red -- Previous one
+Green -- Modified or newly added 
+
+
+
                     |
                     | (git init branch_name)
                     |
