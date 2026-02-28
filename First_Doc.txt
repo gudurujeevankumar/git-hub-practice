@@ -59,11 +59,27 @@ we can use
 -------------------------------------------------------
 
 Git brach Concept :
+----------------
 
 branches is used to experiment or if you don't want main branch to disturb then we can create branch by using command 
 --> git checkout -b branch_name
 
+we can create a new branch by using command 
+--> git switch -c branch_name
 
+To see all branches that we have by using command called 
+--> git branch
+
+To see all branches including remote braches (in repository that was in online)
+we can use this command 
+--> git branch --all
+
+to shift from present branch to previous branch we can use 
+--> git switch -
+
+To delete branch 
+----------------
+--> git branch -d branch_name 
 -------------------------------------------------------
                     |
                     | (git init branch_name)
