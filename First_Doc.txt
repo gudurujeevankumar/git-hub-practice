@@ -1,3 +1,6 @@
+My Handtyped notes for git practicing 
+
+
 1. First we want to check git status by using
 --> "git status"
 2. Then initialise the github working directory by using 
