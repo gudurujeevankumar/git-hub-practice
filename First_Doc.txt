@@ -80,7 +80,15 @@ to shift from present branch to previous branch we can use
 To delete branch 
 ----------------
 --> git branch -d branch_name 
+
+Merging branches 
+----------------
+to merge branches we have to switch to main brach
+
 -------------------------------------------------------
+
+
+
                     |
                     | (git init branch_name)
                     |
