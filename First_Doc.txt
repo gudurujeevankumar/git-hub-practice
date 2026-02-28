@@ -102,7 +102,7 @@ Then
                     |
                     |(git commit -m "message")      ''' to skip staging we have to use -a in front of -m [git commit -a -m "message"]'''
                     |
-                    | [Note : If we want to commit it file must be in staging area]
+                    | [Note : If we want to commit the file, then file must be in staging area]
         we can commit the changes                   { Commit History }
                     |
                     |
