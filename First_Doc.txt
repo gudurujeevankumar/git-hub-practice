@@ -51,7 +51,11 @@ and for getting detail information about a perticular tag then we have to use
 command --> git tag -a v1.0 -m "message"
 
 
-
+-------------------------------------------------------
+For cloning the project from remote repository 
+we can use 
+--> git clone repo-link (http link)
+-------------------------------------------------------
                     |
                     | (git init branch_name)
                     |
