@@ -1,6 +1,5 @@
 # 📘 Git & GitHub Complete Notes
 
-## This readme was polished by using AI tool
 
 A beginner-friendly and structured guide to understanding **Git** and **GitHub** fundamentals, including commands, workflow, branching, tagging, and collaboration.
 
@@ -238,6 +237,8 @@ git merge branch_name
 - Professional workflow  
 
 ---
+
+Note : This readme was polished by using AI tool
 
 # 👨‍💻 Author
 
