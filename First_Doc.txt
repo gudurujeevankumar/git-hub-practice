@@ -84,6 +84,8 @@ To delete branch
 Merging branches 
 ----------------
 to merge branches we have to switch to main brach
+Then
+--> git merge branch_name 
 
 -------------------------------------------------------
 
