@@ -22,6 +22,9 @@ Meaning of
 6. For skipping the staging for commiting the file then we have to use command 
 --> [ git commit -a -m "message" ]
 
+7.For pushing the code from our local repository to remote repository we have to use 
+--> "git push origin main"
+
 
 To see what are the changes that happened in our working directory we can use 
 --> "git diff" [It can shows when the file in working directory]
@@ -33,6 +36,21 @@ Green -- Modified or newly added
 
 To remove the file or delete the file from staging area by using 
 --> git rm --cached file_name
+
+Tags are 2 types - tags is used for version naming like that...
+
+To see tags we have to use 
+--> git tags
+and for getting detail information about a perticular tag then we have to use 
+--> git show tag_name
+
+1.Light weight tags 
+
+2.Annotated Tags - By using this we can give full information of versions 
+
+command --> git tag -a v1.0 -m "message"
+
+
 
                     |
                     | (git init branch_name)
@@ -50,5 +68,9 @@ To remove the file or delete the file from staging area by using
                     |
                     |
                     |
-
+        Then for pushing the code from { Local to Remote repo}
+                    |
+                    | (git push origin main)
+                    |
+        
 
