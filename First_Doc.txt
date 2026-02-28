@@ -55,6 +55,15 @@ command --> git tag -a v1.0 -m "message"
 For cloning the project from remote repository 
 we can use 
 --> git clone repo-link (http link)
+
+-------------------------------------------------------
+
+Git brach Concept :
+
+branches is used to experiment or if you don't want main branch to disturb then we can create branch by using command 
+--> git checkout -b branch_name
+
+
 -------------------------------------------------------
                     |
                     | (git init branch_name)
